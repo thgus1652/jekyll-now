@@ -4,7 +4,7 @@ title: Hello world
 ---
 MAKE ME AWESOME!
 
-'''python
+```python
 goal = 'make me awesome'
 print(goal)
-'''
+```
