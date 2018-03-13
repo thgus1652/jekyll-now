@@ -1,7 +1,6 @@
 ---
 layout:post
 title : "introduction"
-comment : true
 ---
 
 hello
